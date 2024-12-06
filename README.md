@@ -1,6 +1,6 @@
-# README.md
-
 # Wiki_Research_RAG
+
+![image](https://github.com/user-attachments/assets/6b87892f-d210-4d4a-9e5b-a1a5c0472c46)
 
 This project is a web-based application built using Streamlit, OpenAI GPT, and LangChain. The application provides interactive tools to query Wikipedia and ArXiv research papers. It maintains chat histories for each query, allowing users to interact effectively and track their conversations.
 
@@ -122,7 +122,3 @@ faiss-cpu
 
 ## License
 [MIT License](LICENSE)
-
----
-
-Feel free to contribute or raise issues for further improvements! 🎉
